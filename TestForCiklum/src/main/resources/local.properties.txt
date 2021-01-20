@@ -1,0 +1,6 @@
+org.postgresql.Driver
+jdbc:postgresql://localhost:5432/ciklum_test
+admin
+admin
+3
+5
